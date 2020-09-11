@@ -38,7 +38,7 @@
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
     "pelias-config": "https://github.com/eventkit/pelias-config.git#v4.12.1.1",
-    "pelias-dbclient": "https://github.com/eventkit/pelias-dbclient.git#2.14.0.1",
+    "pelias-dbclient": "https://github.com/eventkit/pelias-dbclient.git#v2.14.0.1",
     "pelias-logger": "^1.2.1",
     "pelias-model": "^7.1.0",
     "pelias-wof-admin-lookup": "^7.0.0",
