@@ -27,9 +27,9 @@ $ npm install
 
 ## Download data
 
-Pre-processed planet-wide road network files are available to download from [geocode.earth](https://geocode.earth/data).
+Pre-processed planet-wide road network files are available to download from [Geocode Earth](https://geocode.earth/data).
 
-> Note: the file extensions `.0sv` and `.polylines` are used interchangeably, they both refer to the same file format; however there is code that looks for the `.0sv` extension which is therfore preferable.
+> Note: the file extensions `.0sv` and `.polylines` are used interchangeably, they both refer to the same file format; however there is code that looks for the `.0sv` extension which is therefore preferable.
 
 For more information on how the extract was generated, see the wiki article: [Generating polylines from Valhalla](https://github.com/pelias/polylines/wiki/Generating-polylines-from-Valhalla).
 
@@ -104,7 +104,7 @@ See [the config](https://github.com/pelias/config) documentation for details on 
 
 Polyline data doesn't have a full administrative hierarchy (ie, country, state,
 county, etc. names), but it can be calculated using data from [Who's on
-First](http://whosonfirst.mapzen.com/). See the [readme](https://github.com/pelias/wof-admin-lookup/blob/master/README.md)
+First](https://whosonfirst.org). See the [readme](https://github.com/pelias/wof-admin-lookup/blob/master/README.md)
 for [pelias/wof-admin-lookup](https://github.com/pelias/wof-admin-lookup) for more information.  By default,
 adminLookup is enabled.  To disable, set `imports.adminLookup.enabled` to `false` in Pelias config.
 
